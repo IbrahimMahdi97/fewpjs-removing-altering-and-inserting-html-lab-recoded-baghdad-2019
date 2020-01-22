@@ -1,5 +1,5 @@
 // Write your code here!
-const 
+const
 
 main.remove();
 const newHeader = document.createElemnt('h1');
