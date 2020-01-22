@@ -1,7 +1,8 @@
 // Write your code here!
-const
+const testVar = "hi"
 
 main.remove();
 const newHeader = document.createElemnt('h1');
  newHeader.setAttribute ('id', 'victory');
-inner = variable.innerHTML ("Ibrahim is the champion");
+ newHeader.innerHTML = "Ibrahim is the champion";
+ newHeader.className = "victory";
