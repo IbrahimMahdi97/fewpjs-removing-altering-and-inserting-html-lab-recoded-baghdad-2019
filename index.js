@@ -1,5 +1,7 @@
 // Write your code here!
+const 
+
 main.remove();
-let newHeader = document.createElemnt('h1');
+const newHeader = document.createElemnt('h1');
  newHeader.setAttribute ('id', 'victory');
 inner = variable.innerHTML ("Ibrahim is the champion");
